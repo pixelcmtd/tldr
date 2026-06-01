@@ -1,4 +1,4 @@
-# grafana-cli
+# grafana cli
 
 > Grafana 서브와 함께 번들로 제공되는 작은 실행 파일.
 > 더 많은 정보: <https://grafana.com/docs/grafana/latest/administration/cli/>.
